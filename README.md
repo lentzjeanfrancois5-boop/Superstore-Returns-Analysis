@@ -3,7 +3,7 @@
 ![Dashboard Preview](tableauscreenshot.png)
 
 ## 🔗 Project Link
-**Tableau Public Workbook:** ![Tableau Public Workbook](https://public.tableau.com/app/profile/lentz.francois/viz/1FinishedStoryTellingWithDataProject/FinalStoryMapping?publish=yes)
+**Tableau Public Workbook:** [Tableau Public Workbook](https://public.tableau.com/app/profile/lentz.francois/viz/1FinishedStoryTellingWithDataProject/FinalStoryMapping?publish=yes)
 
 ---
 
