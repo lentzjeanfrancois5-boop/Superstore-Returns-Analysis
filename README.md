@@ -1,4 +1,4 @@
-# 📦 Superstore Returns Analysis - Executive Presentation
+# 📦 Superstore Returns Analysis
 **Presentation Link:** [Link](https://drive.google.com/file/d/1gXx_rbWpJ59tJy7QHkw29tiJ1RY7I30U/view?usp=drive_link)
 
 ![Dashboard Preview](tableauscreenshot.png)
