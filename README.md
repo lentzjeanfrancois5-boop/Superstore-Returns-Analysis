@@ -4,7 +4,7 @@
 ![Dashboard Preview](TableauScreenShotofDashboard.png)
 
 ## 🔗 Project Link
-**Tableau Public Workbook:** [View Interactive Dashboard](https://public.tableau.com/app/profile/lentz.francois/viz/1FinishedStoryTellingWithDataProject/FinalStoryMapping?publish=yes)
+**Tableau Public Workbook:** [View Interactive Dashboard](https://public.tableau.com/app/profile/lentz.francois/viz/1FinishedStoryTellingWithDataProject/Dashboard1?publish=yes)
 
 ---
 
